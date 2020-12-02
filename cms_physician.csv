@@ -1,0 +1,96 @@
+provider_id,city,postal_code,treatment_type,hcpcs_code,description,services_performed,beneficiaries,avg_charge_submitted,avg_medicare payment
+1033112180,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,25,25,104.4,11.347999999999999
+1043302466,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,27,26,80.0,7.824074073999999
+1104009646,KNOXVILLE,379201502,Maxillofacial Surgery,21248,Partial reconstruction of lower jaw or cheek bone with insertion of implant,30,19,1970.0,662.8983333
+1104009646,KNOXVILLE,379201502,Maxillofacial Surgery,70355,X-ray imaging of teeth,60,60,85.83333333,13.70166667
+1104031053,NASHVILLE,372328605,Otolaryngology,21461,Open treatment of broken jaw bone,11,11,3614.0,348.31
+1144390782,KNOXVILLE,379234925,Maxillofacial Surgery,70355,X-ray imaging of teeth,17,16,95.0,14.15
+1154324804,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,17,17,104.11764709999999,10.38705882
+1215966726,NASHVILLE,372322675,Diagnostic Radiology,70355,X-ray imaging of teeth,15,15,80.0,8.45
+1336117902,NASHVILLE,372031842,Maxillofacial Surgery,70355,X-ray imaging of teeth,41,37,125.0,12.44634146
+1376635706,NASHVILLE,372320001,Oral Surgery (Dentist only),70355,X-ray imaging of teeth,68,56,80.0,7.613088235
+1396701942,MEMPHIS,381322113,Otolaryngology,41100,Biopsy of tongue,20,20,819.0,138.1895
+1396701942,MEMPHIS,381322113,Otolaryngology,41120,Partial removal of tongue,14,14,5332.0,779.9564286
+1407875958,NASHVILLE,372320001,Maxillofacial Surgery,70355,X-ray imaging of teeth,44,40,80.0,6.305227273
+1417972324,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,11,11,36.0,6.913636363999999
+1467455394,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,12,12,36.0,7.745833332999999
+1508826140,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,51,48,36.0,8.118627451
+1538230404,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,11,11,103.6363636,12.86363636
+1578566519,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,19,19,104.2105263,12.66052632
+1619967676,KNOXVILLE,379201502,Oral Surgery (Dentist only),70355,X-ray imaging of teeth,60,56,88.16666667,13.0315
+1659374874,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,49,47,36.0,8.105102041
+1679684005,HIXSON,373434431,Oral Surgery (Dentist only),21110,Application and removal of dental fixation device,58,40,638.3955172,456.6444828
+1679684005,HIXSON,373434431,Oral Surgery (Dentist only),70355,X-ray imaging of teeth,14,14,19.39285714,14.15
+1710025671,NASHVILLE,372325100,Oral Surgery (Dentist only),70350,Imaging of jaws and skull for orthodontic purposes,15,15,82.0,7.61
+1710025671,NASHVILLE,372325100,Oral Surgery (Dentist only),70355,X-ray imaging of teeth,47,43,80.0,7.910638297999999
+1740377845,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,67,66,80.0,8.323880597
+1740417583,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,15,15,104.4,12.777999999999999
+1811280464,KNOXVILLE,37909,Diagnostic Radiology,70355,X-ray imaging of teeth,14,14,36.0,8.45
+1851592257,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,67,58,36.0,7.73
+1912099326,NASHVILLE,372320001,Otolaryngology,41150,"Removal of tongue, floor of mouth, and jaw bone",11,11,7075.0,1664.87
+1922020379,KNOXVILLE,379201500,Maxillofacial Surgery,70355,X-ray imaging of teeth,18,18,70.0,13.36388889
+1932256823,NASHVILLE,372031842,Oral Surgery (Dentist only),70355,X-ray imaging of teeth,22,21,125.0,13.25454546
+1932427317,NASHVILLE,372031842,Maxillofacial Surgery,70355,X-ray imaging of teeth,14,14,125.0,13.82642857
+1992975940,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,14,12,36.0,8.45
+1336117902,NASHVILLE,372031842,Maxillofacial Surgery,70355,X-ray imaging of teeth,34,32,125.0,13.85411765
+1972563468,BRISTOL,376200213,Oral Surgery (dentists only),70355,X-ray imaging of teeth,12,12,78.0,14.47333333
+1174616171,KNOXVILLE,379201585,Maxillofacial Surgery,21244,Reconstruction of lower jaw bone with insertion of bone plate,14,14,4513.0,464.9585714
+1376635706,NASHVILLE,372320001,Oral Surgery (dentists only),70355,X-ray imaging of teeth,84,62,80.0,7.413333333
+1174616171,KNOXVILLE,379201585,Maxillofacial Surgery,70355,X-ray imaging of teeth,66,54,84.0,13.55666667
+1619967676,KNOXVILLE,379201502,Oral Surgery (dentists only),70355,X-ray imaging of teeth,54,45,80.0,12.31722222
+1306275946,NASHVILLE,372320001,Nurse Practitioner,70355,X-ray imaging of teeth,38,35,80.0,6.979736842
+1851592257,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,44,43,36.0,8.119545455
+1679684005,HIXSON,373434431,Oral Surgery (dentists only),70355,X-ray imaging of teeth,21,21,19.685238100000003,13.61190476
+1740417583,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,15,15,102.0,12.49933333
+1922020379,KNOXVILLE,379201500,Maxillofacial Surgery,70355,X-ray imaging of teeth,30,30,70.0,12.844000000000001
+1538230404,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,14,13,101.57142859999999,12.24071429
+1619967692,KNOXVILLE,379201502,Pathology,70355,X-ray imaging of teeth,54,46,80.0,13.59685185
+1093925497,MARYVILLE,378045131,Maxillofacial Surgery,70355,X-ray imaging of teeth,14,14,94.28571429,13.25285714
+1255444212,GERMANTOWN,381381762,Otolaryngology,41530,"Destruction of tongue tissue, per session",20,20,11658.3,210.3655
+1407875958,NASHVILLE,372320001,Maxillofacial Surgery,70355,X-ray imaging of teeth,43,40,80.0,7.848372092999999
+1912957374,CHATTANOOGA,374163665,Portable X-ray,70110,"X-ray of mandible, minimum of 4 views",22,13,22.99727273,13.87272727
+1922020379,KNOXVILLE,379201500,Maxillofacial Surgery,29804,Examination of jaw joint using an endoscope,12,11,5042.916667,578.2275
+1619952314,CLINTON,377166705,Maxillofacial Surgery,70355,X-ray imaging of teeth,14,14,95.0,13.24785714
+1740377845,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,74,74,80.0,8.161486487000001
+1043302466,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,24,24,80.0,8.453333333
+1679684005,HIXSON,373434431,Oral Surgery (dentists only),21110,Application and removal of dental fixation device,57,44,659.9747368,501.57052630000004
+1154324804,CHATTANOOGA,374211688,Oral Surgery (dentists only),70355,X-ray imaging of teeth,23,23,101.7391304,13.74608696
+1508826140,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,22,22,36.0,7.674545455
+1932256823,NASHVILLE,372031842,Oral Surgery (dentists only),70355,X-ray imaging of teeth,29,26,125.0,14.26172414
+1265479836,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,13,13,36.0,8.438461539
+1659374874,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,39,38,36.0,8.26974359
+1265631675,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,37,37,80.0,7.985405405
+1215966726,NASHVILLE,372322675,Diagnostic Radiology,70355,X-ray imaging of teeth,11,11,80.0,8.445454546
+1033112180,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,14,14,102.0,13.31357143
+1043302466,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,26,25,80.0,7.4573076920000005
+1104009646,KNOXVILLE,379201502,Maxillofacial Surgery,70355,X-ray imaging of teeth,34,34,80.0,14.15117647
+1174616171,KNOXVILLE,379201585,Maxillofacial Surgery,21244,Reconstruction of lower jaw bone with insertion of bone plate,14,14,4513.0,381.93
+1679684005,HIXSON,373434431,Oral Surgery (Dentists only),21110,Application and removal of dental fixation device,60,41,633.4531667,460.77016669999995
+1801887567,NASHVILLE,372043708,Orthopedic Surgery,64721,Release and/or relocation of median nerve of hand,13,12,1322.0,295.6930769
+1548216914,COOKEVILLE,385012454,Ambulatory Surgical Center,64721,Release and/or relocation of median nerve of hand,71,64,2905.0,487.3953521000001
+1912957374,CHATTANOOGA,374163665,Portable X-Ray Supplier,70150,"X-ray of bones of face, minimum of 3 views",24,13,25.36458333,13.94208333
+1659374874,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,53,49,36.0,7.4756603770000005
+1598719635,NASHVILLE,372113678,Portable X-Ray Supplier,70150,"X-ray of bones of face, minimum of 3 views",105,65,48.07857143,11.24076191
+1336117902,NASHVILLE,372031842,Maxillofacial Surgery,70355,X-ray imaging of teeth,63,55,125.0,14.063174599999998
+1407875958,NASHVILLE,372320001,Maxillofacial Surgery,70355,X-ray imaging of teeth,43,40,80.0,7.714186047
+1265631675,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,29,29,80.0,8.215862069
+1306275946,NASHVILLE,372320001,Nurse Practitioner,70330,X-ray of jaw joints on both sides of the face,13,13,53.0,5.052307692
+1851592257,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,38,34,36.0,7.8736842110000005
+1538230404,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,17,17,102.0,12.60882353
+1922020379,KNOXVILLE,379201500,Maxillofacial Surgery,70355,X-ray imaging of teeth,24,24,70.0,12.54291667
+1508826140,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,35,32,36.0,8.318857142999999
+1740377845,NASHVILLE,372320001,Diagnostic Radiology,70355,X-ray imaging of teeth,62,62,80.0,7.822903226
+1619967676,KNOXVILLE,379201502,Oral Surgery (Dentists only),70355,X-ray imaging of teeth,65,60,80.0,13.73846154
+1154324804,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,19,18,102.0,12.83473684
+1376635706,NASHVILLE,372320001,Oral Surgery (Dentists only),70355,X-ray imaging of teeth,81,54,80.0,7.565308642000001
+1265479836,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,15,15,36.0,8.43
+1932256823,NASHVILLE,372031842,Oral Surgery (Dentists only),70355,X-ray imaging of teeth,26,23,125.0,14.29
+1679684005,HIXSON,373434431,Oral Surgery (Dentists only),70355,X-ray imaging of teeth,19,19,19.6731579,14.29
+1336117902,NASHVILLE,372031842,Maxillofacial Surgery,70330,X-ray of jaw joints on both sides of the face,12,12,105.0,30.14333333
+1306275946,NASHVILLE,372320001,Nurse Practitioner,70355,X-ray imaging of teeth,35,34,80.0,5.728
+1578566519,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,18,18,102.0,13.49611111
+1912099326,NASHVILLE,372320001,Otolaryngology,41150,"Removal of tongue, floor of mouth, and jaw bone",14,14,7075.0,1678.03
+1740417583,CHATTANOOGA,374211688,Maxillofacial Surgery,70355,X-ray imaging of teeth,18,18,102.0,13.49611111
+1174616171,KNOXVILLE,379201585,Maxillofacial Surgery,70355,X-ray imaging of teeth,89,73,84.0,12.84494382
+1174616171,KNOXVILLE,379201585,Maxillofacial Surgery,41120,Partial removal of tongue,11,11,1815.0,469.7718182
+1710025671,NASHVILLE,372325100,Oral Surgery (Dentists only),70355,X-ray imaging of teeth,15,15,80.0,8.43
