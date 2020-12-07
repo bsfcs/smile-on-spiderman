@@ -37,8 +37,6 @@ year,provider_id,city,postal_code,treatment_type,hcpcs_code,description,services
 2016,1104009646,KNOXVILLE,379201502,Maxillofacial Surgery,70355,X-ray imaging of teeth,34,34,80.0,14.15117647
 2016,1174616171,KNOXVILLE,379201585,Maxillofacial Surgery,21244,Reconstruction of lower jaw bone with insertion of bone plate,14,14,4513.0,381.93
 2016,1679684005,HIXSON,373434431,Oral Surgery (Dentists only),21110,Application and removal of dental fixation device,60,41,633.4531667,460.77016669999995
-2016,1801887567,NASHVILLE,372043708,Orthopedic Surgery,64721,Release and/or relocation of median nerve of hand,13,12,1322.0,295.6930769
-2016,1548216914,COOKEVILLE,385012454,Ambulatory Surgical Center,64721,Release and/or relocation of median nerve of hand,71,64,2905.0,487.3953521000001
 2016,1912957374,CHATTANOOGA,374163665,Portable X-Ray Supplier,70150,"X-ray of bones of face, minimum of 3 views",24,13,25.36458333,13.94208333
 2016,1659374874,KNOXVILLE,379201511,Diagnostic Radiology,70355,X-ray imaging of teeth,53,49,36.0,7.4756603770000005
 2016,1598719635,NASHVILLE,372113678,Portable X-Ray Supplier,70150,"X-ray of bones of face, minimum of 3 views",105,65,48.07857143,11.24076191
